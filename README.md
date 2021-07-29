@@ -282,6 +282,7 @@
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
 * Myntra https://medium.com/myntra-engineering
 * Myntra Data Science https://medium.com/myntra-engineering/tagged/data-science
+* Migomail Email Marketing https://migomail.com/blog
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
